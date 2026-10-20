@@ -1,0 +1,5 @@
+node_modules/
+.firebase/
+vapid-keys.json
+subscription.json
+firebase-debug.log
