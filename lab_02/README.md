@@ -21,4 +21,4 @@ https://lab02-1df5c.web.app
 
 ![Zdjęcie 5](zdj5.png)
 
-![Zdjęcie 6](zdj6.png)
+![Zdjęcie 6](zdj6.jpg)
