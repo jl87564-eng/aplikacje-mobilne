@@ -1,0 +1,21 @@
+.slajdy {
+  height: 300px;
+  max-width: 800px;
+}
+.slajdy .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.slajdy img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.slajdy p {
+  margin: 8px 0;
+  font-weight: 600;
+  text-align: center;
+}

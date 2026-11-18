@@ -1,0 +1,25 @@
+.kalkulator-wynik {
+  min-height: 56px;
+  padding: 12px;
+  text-align: right;
+  font-size: 2rem;
+  overflow-wrap: anywhere;
+  border-bottom: 1px solid var(--ion-color-light-shade);
+}
+ion-thumbnail {
+  --size: 72px;
+  --border-radius: 6px;
+}
+ion-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 480px) {
+  .kalkulator-wynik {
+    font-size: 1.5rem;
+  }
+  ion-tab-button ion-label {
+    font-size: 10px;
+  }
+}
