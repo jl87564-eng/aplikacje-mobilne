@@ -1,0 +1,5 @@
+{
+  "name": "lab_06",
+  "type": "react",
+  "integrations": { "capacitor": {} }
+}

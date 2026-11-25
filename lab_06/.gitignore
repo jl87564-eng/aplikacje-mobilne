@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+*.local
+/cypress
+/cypress.config.ts
+/e2e
+/playwright.config.ts
+/src/App.test.tsx
+/src/setupTests.ts

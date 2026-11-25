@@ -1,0 +1,22 @@
+.formularz {
+  width: 100%;
+  height: auto;
+}
+.formularz .swiper-slide {
+  height: auto;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.krok {
+  width: 100%;
+  text-align: left;
+  padding: 8px 0 16px;
+}
+.krok ion-input {
+  margin: 8px 0;
+}
+.krok ion-text {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.85rem;
+}

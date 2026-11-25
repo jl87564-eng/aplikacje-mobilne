@@ -1,0 +1,36 @@
+{
+  "name": "lab_06",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 8100",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "ionic:serve": "vite --host 0.0.0.0 --port 8100"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.0.0",
+    "@ionic/react": "^9.0.11",
+    "@ionic/react-router": "^9.0.11",
+    "ionicons": "^8.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hook-form": "^7.66.0",
+    "react-router-dom": "^6.30.1",
+    "swiper": "^12.0.3",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
